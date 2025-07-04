@@ -56,7 +56,9 @@ The script performs the following steps:
 The script generates two plots:
 1. **Coherence Plot**: Shows the decay of coherence (`|ρ_{01}|`) over time, compared with the analytical solution.
 2. **Expectation Values Plot**: Displays the expectation values of `σx`, `σy`, and `σz`, alongside their analytical solutions.
-- **Coherence Evolution**: ![Coherence Evolution Chart](/amplitude_damping.png/qubit_noise_simulation_results.png.)
+- ## Outputs
+
+- **Amplitude Damping Visualization**: ![Amplitude Damping Simulation](https://github.com/Ronanasr/QubitNoiseSim/blob/main/amplitude_damping.png)
 
 
 ## Notes
